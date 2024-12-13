@@ -41,7 +41,7 @@
 
 #How to Run
   -Clone Repository
-git clone <https://github.com/MARCOlabo/-LABO-LABO-MARCO-A.-PROJECT_PYTHON/blob/main/README.md?plain=)>
+git clone <https://github.com/MARCOlabo/-LABO-LABO-MARCO-A.-PROJECT_PYTHON/blob/main/README.md>
 cd <PROJECT_PYTHON>
 
 #Run the User Interfaces:
