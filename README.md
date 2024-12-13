@@ -1,3 +1,4 @@
+#FLAPPYBIRD
 # Pigeon Selling Management System
   -The Pigeon Selling Management System is a multi-functional application designed for user registration, sales tracking, inventory management, and administrative control, with functionalities spanning both the customer and administrator levels.
 
